@@ -25,3 +25,6 @@ Build all applications
 Build specific application
 
 > npx nx build \<application name\>
+
+## Details
+https://indepth.dev/posts/1485/the-micro-frontend-chaos-and-how-to-solve-it
